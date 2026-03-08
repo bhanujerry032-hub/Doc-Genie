@@ -1,0 +1,17 @@
+Doc Genie
+
+Doc Genie using IBM Granite 3.3 2B Instruct Model.
+
+
+Click below to view and run the project:
+
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1r1xuHeM2AZgJ8k-c8Hw_bFZEIq6Oa9WG?usp=sharing)
+
+
+
+ Technologies Used
+
+- Python
+- IBM Granite 3.3 2B Instruct
+- Gradio
+- Google Colab
